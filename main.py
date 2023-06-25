@@ -1,0 +1,1 @@
+print("Quack, I am a duck!")
