@@ -2,7 +2,7 @@ import discord
 
 import responses
 
-TOKEN = "MTEyMjU1NTYwOTc5NjA1MDk2NQ.GVH90H.C00ca6i4IU09XkugKEDG9cci46iiDRzfJEJVOI"
+TOKEN = "tokengoeshere"
 
 
 async def send_message(message, user_message, is_private):
